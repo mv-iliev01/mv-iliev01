@@ -38,7 +38,9 @@ About Me
 
 
 🎓  Passed Courses and their Certificates
+
 Courses	Certificates
+
 Programming Basics with C#	👉📜✔️ 
 
 C# Fundamentals	👉📜✔️ 
@@ -51,14 +53,23 @@ Databases Basics - MS SQL Server	👉📜✔️
 Entity Framework Core	👉📜✔️
 
 C# Web Basics	👉📜✔️
+
 JS Advanced	👉📜✔️
+
 JS Applications	👉📜✔️
+
 ASP.NET Core	👉📜✔️
+
 HTML & CSS	👉📜✔️
+
 ReactJS	👉📜✔️
+
 Diploma - C# Web Developer	👉🎓✔️
+
 Diploma - C# Full-Stack Developer	Soon™ 👨‍💻
+
 Diploma - JS Web Developer	Soon™ 👨‍💻
+
 🤝🏻  Connect with Me!
 
    
