@@ -2,6 +2,7 @@
  
 Currently working as a Exam Tester at Software University and intern programmer at MotionSoftware.
 
+
 About Me
 
 🎓  . Professional Qualification - Computer Systems and Technologies(addition to my primary education)
