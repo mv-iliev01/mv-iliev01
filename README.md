@@ -40,12 +40,16 @@ About Me
 🎓  Passed Courses and their Certificates
 Courses	Certificates
 Programming Basics with C#	👉📜✔️ 
+
 C# Fundamentals	👉📜✔️ 
+
 C# Advanced	👉📜✔️
 
 C# OOP	👉📜✔️ 
 Databases Basics - MS SQL Server	👉📜✔️
+
 Entity Framework Core	👉📜✔️
+
 C# Web Basics	👉📜✔️
 JS Advanced	👉📜✔️
 JS Applications	👉📜✔️
