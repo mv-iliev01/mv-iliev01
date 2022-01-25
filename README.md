@@ -41,7 +41,8 @@ About Me
 Courses	Certificates
 Programming Basics with C#	👉📜✔️ 
 C# Fundamentals	👉📜✔️ 
-C# Advanced	👉📜✔️ 
+C# Advanced	👉📜✔️
+
 C# OOP	👉📜✔️ 
 Databases Basics - MS SQL Server	👉📜✔️
 Entity Framework Core	👉📜✔️
