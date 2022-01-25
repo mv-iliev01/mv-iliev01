@@ -2,9 +2,8 @@
  
 Currently working as a Exam Tester at Software University and intern programmer at MotionSoftware.
 
-![Night-Coding](https://user-images.githubusercontent.com/25013809/151030091-844bc854-604a-4163-bfa3-9f0fee54c50c.gif)
- About Me
-🎓  I have a Bachelor's degree in English Philology.
+About Me
+🎓  .
 💻  Currently studying for Full Stack .NET Developer at SoftUni, a Software University.
 
 :octocat:  GitHub Analytics
@@ -40,10 +39,10 @@ Currently working as a Exam Tester at Software University and intern programmer 
 
 🎓  Passed Courses and their Certificates
 Courses	Certificates
-Programming Basics with C#	👉📜✔️
-C# Fundamentals	👉📜✔️
-C# Advanced	👉📜✔️
-C# OOP	👉📜✔️
+Programming Basics with C#	👉📜✔️ 
+C# Fundamentals	👉📜✔️ 
+C# Advanced	👉📜✔️ 
+C# OOP	👉📜✔️ 
 Databases Basics - MS SQL Server	👉📜✔️
 Entity Framework Core	👉📜✔️
 C# Web Basics	👉📜✔️
