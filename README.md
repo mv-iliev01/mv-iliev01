@@ -41,35 +41,33 @@ About Me
 
 Courses	Certificates
 
-Programming Basics with C#	👉📜✔️ 
+Programming Basics with C#📜✔️ 
 
-C# Fundamentals	👉📜✔️ 
+C# Fundamentals📜✔️ 
 
-C# Advanced	👉📜✔️
+C# Advanced📜✔️
 
-C# OOP	👉📜✔️ 
-Databases Basics - MS SQL Server	👉📜✔️
+C# OOP📜✔️ 
+Databases Basics - MS SQL Server📜✔️
 
-Entity Framework Core	👉📜✔️
+Entity Framework Core📜✔️
 
-C# Web Basics	👉📜✔️
+C# Web Basics📜✔️
 
-JS Advanced	👉📜✔️
+JS Advanced📜✔️
 
-JS Applications	👉📜✔️
+JS Applications📜✔️
 
-ASP.NET Core	👉📜✔️
+ASP.NET Core📜✔️
 
-HTML & CSS	👉📜✔️
+HTML & CSS📜✔️
 
-ReactJS	👉📜✔️
+ReactJS📜✔️
 
-Diploma - C# Web Developer	👉🎓✔️
+Diploma - C# Web Developer🎓✔️
 
 Diploma - C# Full-Stack Developer	Soon™ 👨‍💻
 
-Diploma - JS Web Developer	Soon™ 👨‍💻
-
-🤝🏻  Connect with Me!
+Marin Iliev | Facebook
 
    
