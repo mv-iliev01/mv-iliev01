@@ -1,5 +1,4 @@
-![Waving-Hand-Emoji](https://user-images.githubusercontent.com/25013809/151037014-f52e4095-3b1d-4b9d-b667-e401d2e4cba4.png)
- Hi there! I'm Marin
+👋 Hi there! I'm Marin
  
 Currently working as a Exam Tester at Software University and intern programmer at MotionSoftware.
 
