@@ -35,7 +35,9 @@ About Me
  
 
 
+
 🎓  Passed Courses and their Certificates
+
 
 Courses	Certificates
 
@@ -65,7 +67,3 @@ ReactJS📜✔️
 Diploma - C# Web Developer🎓✔️
 
 Diploma - C# Full-Stack Developer	Soon™ 👨‍💻
-
-Marin Iliev | Facebook
-
-   
