@@ -3,11 +3,9 @@
 Currently working as a Exam Tester at Software University and intern programmer at MotionSoftware.
 
 About Me
-🎓  .
-💻  Currently studying for Full Stack .NET Developer at SoftUni, a Software University.
+🎓  . Professional Qualification - Computer Systems and Technologies(addition to my primary education)
+💻  . Currently studying for Full Stack .NET Developer at SoftUni, a Software University.
 
-:octocat:  GitHub Analytics
- 
 
 🛠  Tech Stack 
 
