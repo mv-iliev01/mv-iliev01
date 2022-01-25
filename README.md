@@ -1,8 +1,10 @@
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966](https://user-images.githubusercontent.com/25013809/151036857-ff2fe2c4-599a-40ad-b8d8-5eec6583f3f6.gif)
  Hi there! I'm Marin
  
 Currently working as a Exam Tester at Software University and intern programmer at MotionSoftware.
 
 About Me
+
 🎓  . Professional Qualification - Computer Systems and Technologies(addition to my primary education)
 💻  . Currently studying for Full Stack .NET Developer at SoftUni, a Software University.
 
