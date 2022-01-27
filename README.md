@@ -6,6 +6,7 @@ Currently working as a Exam Tester at Software University and intern programmer 
 About Me
 
 🎓  . Professional Qualification - Computer Systems and Technologies(addition to my primary education)
+
 💻  . Currently studying for Full Stack .NET Developer at SoftUni, a Software University.
 
 
@@ -37,7 +38,7 @@ About Me
 
 
 
-🎓  Passed Courses and their Certificates
+🎓  Passed Courses and Certificates
 
 
 Courses	Certificates
